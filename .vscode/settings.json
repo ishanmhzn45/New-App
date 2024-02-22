@@ -1,0 +1,10 @@
+{
+    "editor.guides.indentation": true,
+    "workbench.preferredDarkColorTheme": "Winter is Coming (Dark Black)",
+    "workbench.preferredLightColorTheme": "Winter is Coming (Dark Black)",
+    "window.autoDetectColorScheme": false,
+    "workbench.colorTheme": "Winter is Coming (Dark Black)",
+    "workbench.preferredHighContrastColorTheme": "Winter is Coming (Dark Black)",
+    "workbench.preferredHighContrastLightColorTheme": "Winter is Coming (Dark Black)",
+    "workbench.iconTheme": "material-icon-theme"
+}
